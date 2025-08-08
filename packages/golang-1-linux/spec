@@ -1,0 +1,4 @@
+---
+name: golang-1-linux
+files:
+- golang-1-linux/go1.24.6.linux-amd64.tar.gz
